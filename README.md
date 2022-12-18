@@ -12,7 +12,7 @@
 |data/data_xray|Data set with train,validation and test data|
 |Dockerfile|file to build and run the docker image in your system|
 |MobileNetV2_v4_1_01_0.938.h5|trained model with 93.8 percent accuracy saved into .h5 format|
-|notebook.ipynb|For all the preprocessing, EDA, model training,validation,adding layers,hyperparameter tuning.|
+|notebook.ipynb|For all the preprocessing, EDA, model training,validation,adding layers,hyperparameter tuning;- learning rate, checkpointing, regularisation and drop out.|
 |lambda_func.py|function to make predictions|
 |pneumoniadetector-model.tflite|tensorflow lite compatible model|
 |test.py|file to test the model using custom image|
