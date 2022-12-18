@@ -32,3 +32,5 @@
      * ipython3
      * keras-image-helper
      * tflite_runtime
+### Prediction on test image:     
+![model_predictionimage](https://user-images.githubusercontent.com/86096781/208323414-93fd0b69-aafc-4c57-92d8-bc03f708c91b.png)
