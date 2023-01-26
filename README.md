@@ -15,7 +15,8 @@
 |notebook.ipynb|For all the preprocessing, EDA, model training,validation,adding layers,hyperparameter tuning;- learning rate, checkpointing, regularisation and drop out.|
 |lambda_func.py|function to make predictions|
 |pneumoniadetector-model.tflite|tensorflow lite compatible model|
-|test.py|file to test the model using custom image and flask app|
+|test.py|file to test the model using custom image|
+|predict.py|deployment using flask app|
 ## How to run the pneumonia detection service on your system
 * Make sure you have Ubuntu installed (you can use WSL)
 * Add WSL extension on VS Code 
