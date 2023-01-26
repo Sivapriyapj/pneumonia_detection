@@ -18,6 +18,7 @@
 |pneumoniadetector-model.tflite|tensorflow lite compatible model|
 |test.py|file to test the model using custom image|
 |predict.py|deployment using flask app|
+|Pipfile & Pipfile.lock|deployment using flask app|
 ## How to run the pneumonia detection service on your system
 * Make sure you have Ubuntu installed (you can use WSL)
 * Add WSL extension on VS Code 
